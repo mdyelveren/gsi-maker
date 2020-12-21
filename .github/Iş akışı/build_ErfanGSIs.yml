@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/lavender/AncientOS-weeaboify-v4.0-Final-lavender-Koshiki-20200928-1205-Vanilla.zip 
-  ROM_NAME: Generic
+  ROM_URL: https://doc-0o-4c-docs.googleusercontent.com/docs/securesc/8687fovovse2l6sk7j0rn7qkgve56qp3/m6vnhlt4grrmt0mo9danrkln2m085dp0/1608574725000/17354996532301258364/13997651805865825335/1QO3NkxFvVBqhRFdjAVcRq_W5uktwSDIA?e=download&authuser=0&nonce=cqu78shtddo78&user=13997651805865825335&hash=u4nqc23esicno92nbbmtqf7p98qojrae 
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Ancientos4.0
+  ZIP_NAME: MIUI
 jobs:
   build:
     runs-on: ubuntu-latest
